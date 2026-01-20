@@ -1,0 +1,18 @@
+why we used the margin set to zero because it remove the extra space
+
+flex :1 ; it is say that give the hight and width to the other box and remaining hight and widht give to me.
+
+give the brif of overflow property form the mdn 
+we used overflow hidden for the hide the data which is outside the container or not properly manage inside the container.
+overflow scrowl and overflow arrow :- for the seeing the overflow data
+
+I am not give the border radius to the music-player because in the spotify it is straight
+
+overflow : auto ; it mean scrowl is visible only when they is needed .
+
+new property 
+search :- apperance in MDM
+
+for the range customize go througt the  quirksmode.org
+
+when you design any website then see as a big box and then break the box into the small small box which is easy to design and help it more to you
